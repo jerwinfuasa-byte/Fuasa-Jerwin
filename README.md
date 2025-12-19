@@ -1,4 +1,4 @@
-# Fuasa-Jerwin
+# Fuasa-Jerwin/Gutlay-Sherwin/Sison-Arvin Mark
 # Task Manager App
 
 ## 🔎 About the Project
